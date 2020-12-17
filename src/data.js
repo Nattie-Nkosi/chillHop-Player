@@ -23,12 +23,12 @@ const chillHop = () => {
       active: false,
     },
     {
-      name: '5 am',
+      name: 'Imagination',
       cover:
-        'https://chillhop.com/wp-content/uploads/2020/10/0e5bb63f838ff92eeac142aae944e9f678df13c9-1024x1024.jpg',
-      artist: 'Ruck P, Shuko',
-      audio: 'https://mphttps://mp3.chillhop.com/serve.php/?mp3=10309',
-      color: ['#CCB3C9', '#133565'],
+        'https://chillhop.com/wp-content/uploads/2020/07/24bd0da848d9718fd19af104ff5c0b11f914cb25-1024x1024.jpg',
+      artist: 'Montell Fish',
+      audio: 'https://mp3.chillhop.com/serve.php/?mp3=9332',
+      color: ['#C95376', '#F9E2D4'],
       id: uuidv4(),
       active: false,
     },
