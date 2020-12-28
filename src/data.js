@@ -63,6 +63,16 @@ const chillHop = () => {
       active: false,
     },
     {
+      name: 'Getting Stronger',
+      cover:
+        'https://chillhop.com/wp-content/uploads/2020/10/0e5bb63f838ff92eeac142aae944e9f678df13c9-1024x1024.jpg',
+      artist: 'Montell Fish',
+      audio: 'https://mp3.chillhop.com/serve.php/?mp3=10346',
+      color: ['#CCB3C9', '#133565'],
+      id: uuidv4(),
+      active: false,
+    },
+    {
       name: 'Bliss',
       cover:
         'https://chillhop.com/wp-content/uploads/2020/09/5bff1a6f1bd0e2168d29b4c841b811598135e457-1024x1024.jpg',
@@ -129,6 +139,16 @@ const chillHop = () => {
       artist: 'Sugi.wa',
       audio: 'https://mp3.chillhop.com/serve.php/?mp3=8105',
       color: ['#18C9AC', '#055F60'],
+      id: uuidv4(),
+      active: false,
+    },
+    {
+      name: 'Cloud Carpets',
+      cover:
+        'https://chillhop.com/wp-content/uploads/2020/11/8a0c857ddad531279d0757f5362380a6837b1b69-1024x1024.jpg',
+      artist: 'The Field Tapes, Ezzy, Wowflower',
+      audio: 'https://mp3.chillhop.com/serve.php/?mp3=11248',
+      color: ['#404559', '#BCD1D6'],
       id: uuidv4(),
       active: false,
     },
